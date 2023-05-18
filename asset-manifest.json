@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/video-search-app/static/css/main.7064deb2.css",
+    "main.js": "/video-search-app/static/js/main.ee92e239.js",
+    "index.html": "/video-search-app/index.html",
+    "main.7064deb2.css.map": "/video-search-app/static/css/main.7064deb2.css.map",
+    "main.ee92e239.js.map": "/video-search-app/static/js/main.ee92e239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.ee92e239.js"
+  ]
+}
